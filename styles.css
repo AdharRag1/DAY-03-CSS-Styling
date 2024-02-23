@@ -1,0 +1,19 @@
+#title{
+    background-color:black;
+    color:white;
+}
+span{
+    color:aqua;
+}
+#proj{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: oblique;
+}
+#link{
+    text-align: right;
+    background-color: #9FC5F8;
+    font-size: 30px;
+    
+}
